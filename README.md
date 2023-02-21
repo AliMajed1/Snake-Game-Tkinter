@@ -16,7 +16,7 @@ As you progress through the game, you'll encounter several additional challenges
 ## Requirements
 To run this game, you'll need:
 
-Python 3.x
-Tkinter library
+-Python 3.x
+-Tkinter library
 ## Credits
 This software was developed during my 1st year as an Artificial Intelligence student at the University of Manchester, it was submitted as an assessed coursework for the COMP16321 course unit.
